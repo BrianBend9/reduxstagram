@@ -3,4 +3,4 @@ function posts(state = [], action) {
   return state;
 }
 
-export defualt posts;
+export default posts;
